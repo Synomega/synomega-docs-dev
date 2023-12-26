@@ -11,7 +11,7 @@ tags: ["Beginners"]
 ---
 
 
-{{< alert context="info" text="Les <strong>sauvegardes</strong> représentent l'un des piliers fondamentaux de notre mission chez <strong>SYNOMEGA</strong>, car elles garantissent la continuité des activités de nos clients en cas d'incidents, de pannes matérielles, de sinistres, de cyberattaques ou de tout autre événement inattendu. Il est de notre responsabilité de veiller à ce que les sauvegardes soient effectuées régulièrement, elles requièrent notre vigilance et notre engagements constants." />}}
+Les <strong>sauvegardes</strong> représentent l'un des piliers fondamentaux de notre mission chez <strong>SYNOMEGA</strong>, car elles garantissent la continuité des activités de nos clients en cas d'incidents, de pannes matérielles, de sinistres, de cyberattaques ou de tout autre événement inattendu. Il est de notre responsabilité de veiller à ce que les sauvegardes soient effectuées régulièrement, elles requièrent notre vigilance et notre engagements constants."
 
 #### Scénario : échec de sauvegarde sur un serveur ou NAS
 
